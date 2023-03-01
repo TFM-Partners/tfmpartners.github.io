@@ -1,0 +1,4 @@
+baseURL = 'https://tfmpartners.github.io'
+languageCode = 'en-us'
+title = 'TFM Partners'
+theme = 'ananke'
